@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+tensorflow
+yfinance
+scikit-learn
+joblib
+numpy
+djangorestframework-simplejwt 
