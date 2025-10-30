@@ -1,10 +1,14 @@
 from django.urls import path
-# Fix 1: Import the correct class name 'StockPredictionView'
-from .views import StockPredictionView 
+from . import views
 
 urlpatterns = [
-    # Fix 2: Update the path to capture the ticker from the URL
-    # This now matches the URL the frontend is calling
-    path('predict/<str:ticker>/', StockPredictionView.as_view(), name='predict-stock'),
+    # Auth
+    path('register/', views.RegisterView.as_view(), name='register'),
+    
+    # Main prediction API
+    path('predict/<str:ticker>/', views.StockPredictionView.as_view(), name='predict-stock'),
+    
+    # 10-Year historical chart API
+    path('historical-chart/<str:ticker>/', views.HistoricalChartView.as_view(), name='historical-chart'),
 ]
 
