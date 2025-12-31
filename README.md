@@ -1,4 +1,4 @@
-# 📈 Intelligent Stock Prediction Portal
+# 📈 AI-Powered Stock Prediction Portal
 
 A full-stack web application that leverages Deep Learning (LSTM) to predict next-day stock prices with technical analysis insights and interactive visualizations.
 
@@ -482,10 +482,6 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
