@@ -485,13 +485,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 👨‍💻 Author
 
-**Sumit Kumar Barnwal**
-- Roll No: 23223087
-- Program: MCA V Semester (2023-2026)
-- Institution: National Institute of Technology Raipur
-- Supervisor: Dr. Dibakar Saha
 
 ---
 
@@ -499,7 +493,7 @@ Contributions are welcome! Please follow these steps:
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: shubhamkhr0@gmail.com
 
 ---
 
@@ -520,4 +514,4 @@ For issues, questions, or suggestions:
 
 ---
 
-Made with ❤️ and ☕ by Sumit Kumar Barnwal
+Made with ❤️ and ☕ by Shubham Kharsodiya
