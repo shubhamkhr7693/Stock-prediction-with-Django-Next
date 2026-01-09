@@ -1,6 +1,4 @@
 
-<img src="https://drive.google.com/drive/u/0/recent" alt="100" width="100" height="100">
-
 
 # 📈 AI-Powered Stock Prediction Portal
 
@@ -51,6 +49,9 @@ A full-stack web application that leverages Deep Learning (LSTM) to predict next
 ```
 
 ---
+
+<img width="1470" height="956" alt="frontendoverview" src="https://github.com/user-attachments/assets/dd9badee-dab6-483f-8253-dbf639ae9780" />
+
 
 ## 🛠️ Tech Stack
 
