@@ -1,3 +1,7 @@
+
+<img src="https://drive.google.com/drive/u/0/recent" alt="overview" width="100" height="100">
+
+
 # 📈 AI-Powered Stock Prediction Portal
 
 A full-stack web application that leverages Deep Learning (LSTM) to predict next-day stock prices with technical analysis insights and interactive visualizations.
