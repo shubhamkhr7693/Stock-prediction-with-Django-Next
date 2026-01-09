@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/drive/u/0/recent" alt="overview" width="100" height="100">
+<img src="https://drive.google.com/drive/u/0/recent" alt="100" width="100" height="100">
 
 
 # 📈 AI-Powered Stock Prediction Portal
