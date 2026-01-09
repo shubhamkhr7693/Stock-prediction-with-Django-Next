@@ -51,6 +51,7 @@ A full-stack web application that leverages Deep Learning (LSTM) to predict next
 ---
 
 <img width="1470" height="956" alt="frontendoverview" src="https://github.com/user-attachments/assets/dd9badee-dab6-483f-8253-dbf639ae9780" />
+<img width="1470" height="956" alt="Screenshot 2026-01-09 at 12 09 43 PM" src="https://github.com/user-attachments/assets/fab9d5ba-156d-415d-a22f-b9c91995bc80" />
 
 
 ## 🛠️ Tech Stack
